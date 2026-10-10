@@ -3,6 +3,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/sparkly-unicorn-still.png" />
+    <img src="assets/sparkly-unicorn.gif" alt="A running pastel unicorn with a rainbow mane and twinkling sparkles" width="240" />
+  </picture>
+</p>
+
+<p align="center">
   <b>Learning web development, one project at a time.</b><br />
   A space for my experiments, coursework, and progress.
 </p>
